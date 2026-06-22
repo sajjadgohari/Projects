@@ -1,8 +1,12 @@
-# React + Vite
+# 📚 Book Library App (V1)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+* **Component-Driven Architecture:** Modular design using reusable components like `BookCard`, `SideCard`, `Search`, and `Layout`.
+* **State Management:** Fully functional book search and a dynamic "Favorites" list to save books.
+* **Context API Integration:** Implements `LanguageContext` for seamless switching between English and French, and `ThemeContext` for Dark/Light mode toggling.
+* **Optimized Styling:** Styled using CSS Modules to ensure scoped and maintainable styles.
+* **Mock Data:** Powered by a local `mockData.js` file for seamless catalog management.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview
+![Book Library App Preview](./image_7f8541.png)
