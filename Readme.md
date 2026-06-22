@@ -1,3 +1,3 @@
 # 🌌 SG Labs - Full Stack Projects Hub
 
-(./SGLabsBanner.png)
+![SG Labs Banner](./SGLabsBanner.png)
