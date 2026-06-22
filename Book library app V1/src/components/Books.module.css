@@ -1,0 +1,32 @@
+/* src/components/Books.module.css */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.mainContent {
+  display: flex;
+  gap: 25px;
+  margin-top: 30px;
+}
+.booksGrid {
+  flex: 3;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 20px;
+}
+.sidebar {
+  flex: 1;
+  min-width: 280px;
+}
+.noResult {
+  grid-column: 1 / -1;
+  text-align: center;
+  font-size: 1.2rem;
+  color: var(--text-muted);
+  padding: 40px 0;
+}
+@media (max-width: 900px) {
+  .mainContent { flex-direction: column; }
+  .sidebar { width: 100%; }
+}

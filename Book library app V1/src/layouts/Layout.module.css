@@ -1,0 +1,52 @@
+/* src/layouts/Layout.module.css */
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.header {
+  background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+  color: white;
+  padding: 20px;
+  position: relative;
+  text-align: center;
+}
+.controls {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  display: flex;
+  gap: 10px;
+}
+.select {
+  padding: 6px 10px;
+  border-radius: 6px;
+  border: none;
+  background: white;
+  color: #2d3748;
+  font-weight: 600;
+  cursor: pointer;
+}
+.themeBtn {
+  padding: 6px 12px;
+  border-radius: 6px;
+  border: 1px solid white;
+  background: transparent;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.themeBtn:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+.headerContainer h1 { margin: 10px 0 0 0; font-size: 1.8rem; }
+.headerContainer p { margin: 5px 0 0 0; font-size: 0.95rem; opacity: 0.8; }
+.main { flex: 1; }
+.footer {
+  background: #2d3748;
+  color: #a0aec0;
+  text-align: center;
+  padding: 15px 0;
+  font-size: 0.9rem;
+}
