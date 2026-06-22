@@ -9,4 +9,4 @@
 ---
 
 ## 📸 Preview
-![Book Library App Preview](./image_7f8541.png)
+![Book Library App Preview](./image2134234.png)
