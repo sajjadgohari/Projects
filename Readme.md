@@ -1,3 +1,3 @@
-# 🌌 SG Labs - Full Stack Projects Hub
+# 🌌 Welcome !
 
 ![SG Labs Banner](./SGLabsBanner.png)
