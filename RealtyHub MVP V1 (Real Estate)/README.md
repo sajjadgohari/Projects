@@ -19,7 +19,7 @@ An initial prototype and full-stack real estate marketplace built with Next.js A
 
 ## Live Demo & Screenshots
 
-- **Live Preview:** [Click here to view the live application](https://your-vercel-link.vercel.app)
+- **Live Preview:** [Click here to view the live application](https://realtyhub-app.vercel.app) 
 - **Initial Version Screenshots:** The complete layout and interface screenshots of the initial release are attached below for visual review.
 
 ## Setup
@@ -62,7 +62,12 @@ app/api/ai/email-variations/route.ts generates formal, friendly, and short inqui
 If OPENAI_API_KEY is configured, it calls the OpenAI Responses API. Without a key, it returns deterministic production-safe fallback variations so the UI still works.
 
 ---
-*For detailed folder structure, complete database commands, full environment variable definitions, and production notes, please check README FOR DEV.md.*
-
----
 Looking to build a custom, AI-powered high-performance platform for your business? Let's turn your vision into reality. Contact us to get started!
+
+<img width="1920" height="1249" alt="RealtyH - localhost" src="https://github.com/user-attachments/assets/dce20f59-618a-40bd-8421-15fdc344b5cd" />
+<img width="1377" height="768" alt="Image_s6593ks6593ks659" src="https://github.com/user-attachments/assets/fa327ee2-1633-4fda-87b9-97fdb2c0aea7" />
+<img width="1920" height="1365" alt="RealtyHub32 - localhost" src="https://github.com/user-attachments/assets/04d77ba3-9968-4548-8197-56f137e843fa" />
+<img width="1920" height="1841" alt="FireShot Capture 004 - RealtyHub - localhost" src="https://github.com/user-attachments/assets/c1c2be1e-6065-4e0d-94d2-d3e54d6c1ae3" />
+<img width="1920" height="1325" alt="FireShot Capture 003 - RealtyHub - localhost" src="https://github.com/user-attachments/assets/984ab681-f671-4705-915e-1e9ea3a5dad8" />
+<img width="1920" height="1522" alt="FireShot Capture 002 - RealtyHub - localhost" src="https://github.com/user-attachments/assets/eb9472b2-bc9d-4939-ac41-e23bf71a727c" />
+
