@@ -67,7 +67,8 @@ Looking to build a custom, AI-powered high-performance platform for your busines
 <img width="1920" height="1249" alt="RealtyH - localhost" src="https://github.com/user-attachments/assets/dce20f59-618a-40bd-8421-15fdc344b5cd" />
 <img width="1377" height="768" alt="Image_s6593ks6593ks659" src="https://github.com/user-attachments/assets/fa327ee2-1633-4fda-87b9-97fdb2c0aea7" />
 <img width="1920" height="1365" alt="RealtyHub32 - localhost" src="https://github.com/user-attachments/assets/04d77ba3-9968-4548-8197-56f137e843fa" />
-<img width="1920" height="1841" alt="FireShot Capture 004 - RealtyHub - localhost" src="https://github.com/user-attachments/assets/c1c2be1e-6065-4e0d-94d2-d3e54d6c1ae3" />
-<img width="1920" height="1325" alt="FireShot Capture 003 - RealtyHub - localhost" src="https://github.com/user-attachments/assets/984ab681-f671-4705-915e-1e9ea3a5dad8" />
-<img width="1920" height="1522" alt="FireShot Capture 002 - RealtyHub - localhost" src="https://github.com/user-attachments/assets/eb9472b2-bc9d-4939-ac41-e23bf71a727c" />
+<img width="1920" height="1790" alt="FireShot Capture 004 - RealtyHub - localhost" src="https://github.com/user-attachments/assets/2862f830-a213-497d-9675-e2fbdee5b4cd" />
+<img width="1920" height="1283" alt="FireShot Capture 003 - RealtyHub - localhost" src="https://github.com/user-attachments/assets/84c3643e-e0d0-4a21-88af-32d83e7f27b3" />
+<img width="1920" height="1480" alt="FireShot Capture 002 - RealtyHub - localhost" src="https://github.com/user-attachments/assets/5831b9a2-dae8-4a13-8c09-d0a6d7ebb89d" />
+
 
