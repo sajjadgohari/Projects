@@ -1,4 +1,4 @@
-# RealtyHub MVP V1
+# RealtyHub MVP V1 (Real Estate)
 
 An initial prototype and full-stack real estate marketplace built with Next.js App Router, TypeScript, Tailwind CSS, Zustand, Prisma, PostgreSQL, Better Auth, Cloudinary, Resend, and React Email—serving as a solid foundation that can be fully customized and expanded to fit your specific business requirements.
 
